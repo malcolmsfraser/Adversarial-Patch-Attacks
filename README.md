@@ -12,9 +12,8 @@
 
 ## Results
 
+### Top1 and Top5 Error
 **Results shown for the "car" patch**
-
-### Top1 and Top5 Error 
 | Model     | Transfer Attack | Baseline Error  | Patch Size: 2x2 | Patch Size: 4x4 | Patch Size: 8x8 |
 | --------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 | ResNet34  | No              | (6.67%/0.25%)   | (12.04%/0.70%)  | (19.48%/2.35%)  | (58.01%/10.98%) |
