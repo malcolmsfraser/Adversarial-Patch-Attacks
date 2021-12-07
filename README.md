@@ -29,10 +29,6 @@
 | Vgg16     | Yes             | (0.88%/31.89%)  | (5.70%/50.08%)  | (10.98%/35.75%) |
 
 
-## Model performance without patch attack (ResNet34).  
-
-![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.49.00%20PM.png)
-
 ## The generated adversarial patches. 
 
 ![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Patches-300dpi.png)
