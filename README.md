@@ -10,6 +10,16 @@
 
 *This project can run on CPU but evaluation will be VERY slow*
 
+## Results
+
+**Results shown for the "car" patch**
+| Model     | Transfer Attack | Baseline Error (Top1/Top5)  | Patch Size: 2x2 | Patch Size: 4x4 | Patch Size: 8x8 |
+| --------- | --------------- | --------------------------- | --------------- | --------------- | --------------- |
+| ResNet34  | No              | (6.67%/0.25%)               | (12.04%/0.70%)  | (19.48%/2.35%)  | (58.01%/10.98%) |
+| ResNet18  | Yes             | (6.93%/0.26%)               | (12.05%/0.57%)  | (23.22%/2.21%)  | (39.40%/9.48%)  |
+| Vgg16     | Yes             | (6.00%/0.36%)               | (11.79%/1.00%)  | (22.36%/4.31%)  | (37.54%/7.29%)  |
+
+
 ## Model performance without patch attack (ResNet34).  
 
 ![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.49.00%20PM.png)
