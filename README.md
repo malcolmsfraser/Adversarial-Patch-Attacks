@@ -4,6 +4,8 @@
 
 ## Replicating this project
 
-Option1 (Reccomended): Click the above "Open In Colab" badge (or upload notebook to Colab) and run in a **GPU** instance. Run All
-Option2: Upload jupyer notebook to another GPU enabled jupyter environment and run all cells
+**Option 1 (Reccomended):** Click the above "Open In Colab" badge (or upload notebook to Colab) and run in a **GPU** instance. Run All. 
+
+**Option 2:** Upload jupyer notebook to another GPU enabled jupyter environment and run all cells. 
+
 *This project can run on CPU but evaluation will be VERY slow*
