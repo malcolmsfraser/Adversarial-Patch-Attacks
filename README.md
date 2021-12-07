@@ -12,13 +12,21 @@
 
 ## Results
 
-### Top1 and Top5 Error
 **Results shown for the "car" patch**
+
+### Top1 and Top5 Error
 | Model     | Transfer Attack | Baseline Error  | Patch Size: 2x2 | Patch Size: 4x4 | Patch Size: 8x8 |
 | --------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 | ResNet34  | No              | (6.67%/0.25%)   | (12.04%/0.70%)  | (19.48%/2.35%)  | (58.01%/10.98%) |
 | ResNet18  | Yes             | (6.93%/0.26%)   | (12.05%/0.57%)  | (23.22%/2.21%)  | (39.40%/9.48%)  |
 | Vgg16     | Yes             | (6.00%/0.36%)   | (11.79%/1.00%)  | (22.36%/4.31%)  | (37.54%/7.29%)  |
+
+### Top1 and Top5 Patch Accuracy
+| Model     | Transfer Attack | Patch Size: 2x2 | Patch Size: 4x4 | Patch Size: 8x8 |
+| --------- | --------------- | --------------- | --------------- | --------------- |
+| ResNet34  | No              | (_____%/_____%) | (_____%/_____%) | (_____%/_____%) |
+| ResNet18  | Yes             | (0.89%/24.11%)  | (10.04%/66.90%) | (59.69%/92.75%) |
+| Vgg16     | Yes             | (0.88%/31.89%)  | (5.70%/50.08%)  | (10.98%/35.75%) |
 
 
 ## Model performance without patch attack (ResNet34).  
