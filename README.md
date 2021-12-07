@@ -10,7 +10,7 @@
 
 *This project can run on CPU but evaluation will be VERY slow*
 
-## Model performance without patch attack.  
+## Model performance without patch attack (ResNet34.  
 
 ![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.49.00%20PM.png)
 
@@ -18,7 +18,7 @@
 
 ![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.49.38%20PM.png)
 
-## Model performance after patch attack (Resnet34). 
+## Model performance after patch attack (ResNet34). 
 
 ![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.50.08%20PM.png)
 
