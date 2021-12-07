@@ -39,12 +39,18 @@
 
 ## Model performance after patch attack (ResNet34). 
 
-![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.50.08%20PM.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/resnet34_dog_w_catPatch8_300dpi.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/resnet34_truck_w_catPatch8_300dpi.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/resnet34_ship_w_catPatch8_300dpi.png)
 
 ## Transfer Attack - ResNet18
 
-![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2011.06.33%20PM.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/resnet18_dog_w_catPatch8_300dpi.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/resnet18_truck_w_catPatch8_300dpi.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/resnet18_ship_w_catPatch8_300dpi.png)
 
 ## Transfer Attack - Vgg16
 
-![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2011.07.12%20PM.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/vgg16_dog_w_catPatch8_300dpi.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/vgg16_truck_w_catPatch8_300dpi.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/vgg16_ship_w_catPatch8_300dpi.png)
