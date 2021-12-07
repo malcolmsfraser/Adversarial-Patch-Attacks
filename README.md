@@ -18,6 +18,14 @@
 
 ![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.49.38%20PM.png)
 
-## Model performance after patch attack. 
+## Model performance after patch attack (Resnet34). 
 
 ![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2010.50.08%20PM.png)
+
+## Transfer Attack - ResNet18
+
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2011.06.33%20PM.png)
+
+## Transfer Attack - Vgg16
+
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Screen%20Shot%202021-12-06%20at%2011.07.12%20PM.png)
