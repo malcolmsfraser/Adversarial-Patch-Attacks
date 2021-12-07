@@ -10,4 +10,4 @@
 
 *This project can run on CPU but evaluation will be VERY slow*
 
-![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/images/Screen Shot 2021-12-06 at 10.49.00 PM.png)
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/images/Screen\ Shot\ 2021-12-06\ at\ 10.49.00\ PM.png)
