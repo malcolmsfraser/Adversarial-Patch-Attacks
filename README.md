@@ -31,7 +31,7 @@
 
 ## The generated adversarial patches. 
 
-
+![alt text](https://github.com/malcolmsfraser/Adversarial-Patch-Attacks/blob/main/images/Patches-300dpi.png)
 
 ## Model performance after patch attack (ResNet34). 
 
