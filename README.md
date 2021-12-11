@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m3j0Bh1ZOKLqn7a1qthpn28Wf8TQdjLI?usp=sharing)
 
+This project was adapted from https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial10/Adversarial_Attacks.ipynb
+
 ## Replicating this project
 
 **Option 1 (Reccomended):** Click the above "Open In Colab" badge (or upload notebook to Colab) and run in a **GPU** instance. Run All. 
